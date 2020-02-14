@@ -1,0 +1,32 @@
+1)logo little biggeer
+2)dropdown in about as
+3)our works drop down in home page 
+(home screen )
+	a) Training and workshop
+	b) gender mainstreaming
+	c)gender support unit
+4)add another tab (Our resources)
+	DROP DOWN
+	a)annual report 
+	b)other materials
+5)One photo in home screen 
+	home-banner
+6)remove box on photo
+7)remove both  image from title box
+8)remove iges box on photo banner
+9)iges title cpoontent comes below
+10)gray background in home screen 
+11)advocay image a one (all)
+12)news /heigh remove sub titile
+13)back like pdf
+14)background for our team 
+15)read more in our team 
+16)remove card in orange and black
+17)remove ggole map in home page -->contact page
+18)http://www.nirantar.net/
+	footer in this side map
+	keep in touch
+
+
+	
+	
