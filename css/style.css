@@ -1431,6 +1431,7 @@ input[type="text"] {
 }
 #homedec .desc {
   margin-top: -10rem;
+  margin-left: -2rem;
 }
 #homedec h3{
   color: white;
@@ -1439,7 +1440,7 @@ input[type="text"] {
 }
 #announce .desc{
   margin-top: -22rem;
-  height: 400px;
+  height: 560px;
   box-shadow: 10px 10px 8px #888888;
 }
 #announce .desc h2{
@@ -1484,4 +1485,7 @@ input[type="text"] {
   }
   #team .desc{
     width: 100%;
+  }
+  #colorlib-container, #colorlib-instagram, #colorlib-about, #colorlib-contact, #colorlib-footer{
+    padding: 0em 0;
   }

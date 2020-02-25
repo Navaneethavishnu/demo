@@ -28,5 +28,18 @@
 	keep in touch
 
 
+17 feb
+
+1)logo bigger and without white background
+2)remove anounce text 
+3)text for announce and iges
+4)same shadow yellow , blue ,orange 
+5)highlight (desc -->-6rem)
+6)news full backgrround comes then sesc in rect angle
+7)camel case in our team 
+8)title in camel case
+9)remove keep in touch
+10)align in address 4_lines 
+11)add email
 	
 	
